@@ -1,0 +1,70 @@
+
+[
+    {
+    "ID": "Boat",
+    "timestamp": 0,
+    "xPos":50,
+    "yPos":-50,
+    "speed":0,
+    "hasRightOfWay":true,
+    "message":""
+ },
+  {
+    "ID": "Wind",
+    "timestamp": 0,
+    "xPos":50,
+    "yPos":50,
+    "speed":10,
+    "hasRightOfWay":true,
+    "message":""
+ },
+   {
+    "ID": "Message",
+    "timestamp": 2000,
+    "xPos":50,
+    "yPos":-50,
+    "speed":6,
+    "hasRightOfWay":true,
+    "message":"Turn to the left until your boat has speed"
+ },
+
+   {
+    "ID": "Wind",
+    "timestamp": 4000,
+    "xPos":50,
+    "yPos":50,
+    "speed":10,
+    "hasRightOfWay":true,
+    "message":""
+ },
+
+   {
+    "ID": "Message",
+    "timestamp": 20000,
+    "xPos":50,
+    "yPos":-50,
+    "speed":6,
+    "hasRightOfWay":true,
+    "message":"Ask me to repeat this message"
+ },
+
+   {
+    "ID": "Message",
+    "timestamp": 30000,
+    "xPos":50,
+    "yPos":-50,
+    "speed":6,
+    "hasRightOfWay":true,
+    "message":"Ask your crew if they are ready and then point directly into the wind"
+ },
+    {
+    "ID": "Message",
+    "timestamp": 2000000,
+    "xPos":50,
+    "yPos":-50,
+    "speed":10,
+    "hasRightOfWay":true,
+    "message":"last"
+ }
+  
+]

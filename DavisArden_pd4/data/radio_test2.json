@@ -1,0 +1,20 @@
+[
+ {
+    "ID": "Message",
+    "timestamp": 2000,
+    "xPos":0,
+    "yPos":50,
+    "speed":10,
+    "hasRightOfWay":true,
+    "message":"There is a massive storm so Point your boat into the wind because you need to motor back"
+ },
+  {
+    "ID": "Message",
+    "timestamp": 40000,
+    "xPos":0,
+    "yPos":50,
+    "speed":10,
+    "hasRightOfWay":true,
+    "message":"last"
+ }
+]

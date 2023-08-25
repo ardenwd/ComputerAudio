@@ -1,0 +1,41 @@
+
+[
+    {
+    "ID": "Boat",
+    "timestamp": 0,
+    "xPos":0,
+    "yPos":0,
+ 
+    "speed":0,
+    "hasRightOfWay":true,
+    "message":""
+ },
+  {
+    "ID": "Wind",
+    "timestamp": 0,
+    "xPos":50,
+    "yPos":0,
+    "speed":5,
+    "hasRightOfWay":true,
+    "message":""
+ },
+ {
+   "ID": "IncomingBoat",
+   "timestamp": 0,
+   "xPos":20,
+   "yPos":0,
+   "speed":-2,
+   "hasRightOfWay":true,
+   "message":""
+},
+ {
+   "ID": "Crew",
+   "timestamp": 190000,
+   "xPos":2,
+   "yPos":2,
+   "speed":5,
+   "hasRightOfWay":true,
+   "message":"last"
+}
+  
+]
